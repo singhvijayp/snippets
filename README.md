@@ -38,6 +38,8 @@ Browse the folders and use the snippet that fits your need. Modify as necessary 
 snippets/
 │
 ├── bash/
+│   ├── connect.sh
+│   ├── term.sh
 │
 ├── python/
 │   ├── hacked.py
