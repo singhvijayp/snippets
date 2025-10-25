@@ -40,6 +40,7 @@ snippets/
 ├── bash/
 │   ├── connect.sh
 │   ├── term.sh
+│   ├── ytdl.sh
 │
 ├── python/
 │   ├── hacked.py
