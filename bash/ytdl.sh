@@ -9,7 +9,7 @@
 echo "Enter the YouTube playlist or video URL: "
 read -r url
 
-yt-dlp -f "bestvideo[height<=1080][fps<=60]+bestaudio" \
+yt-dlp -f "bestvideo[height<=2160][fps<=60]+bestaudio" \
   --merge-output-format mp4 \
   --write-subs \
   --write-auto-subs \
